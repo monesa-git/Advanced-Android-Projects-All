@@ -1,6 +1,6 @@
 # Advanced-Android-Projects-All
 
-# LiveLIVE Security Streaming Service
+# 1. LiveLIVE Security Streaming Service
 
 **_Source code_**
 https://github.com/monesa-git/Advanced-Android-Projects/tree/master/ChatApp
@@ -20,7 +20,7 @@ https://trello.com/b/Q1uXwhJK/amad-board
 **_Youtube Demo Video_**
 https://youtu.be/65ht_y_FqxI
 
-# Chatroom application using Firebase
+# 2. Chatroom application using Firebase
 
 **_Source code_**
 https://github.com/monesa-git/Advanced-Android-Projects/tree/master/ChatApp
@@ -31,7 +31,7 @@ https://youtu.be/5qNh-Ms-AqI
 **_User experience Design Link_**
 https://xd.adobe.com/view/241d0e96-73fb-42da-9b98-be81c5b8c99f-714e/
 
-# Extending ChatApplication for users to share live location and book rides
+# 3. Extending ChatApplication for users to share live location and book rides
 
 **_Source code_**
 https://github.com/monesa-git/RideChatApp/tree/master/ChatApp
@@ -42,7 +42,7 @@ https://youtu.be/LOwqqYGd73Q
 **_User experience Design Link_**
 https://xd.adobe.com/view/aa2ef7ed-6074-43a7-aa6c-890f69f41fa0-ff7d/
 
-# Uno game using Firebase
+# 4. Uno game using Firebase
 
 **_Source code_**
 https://github.com/monesa-git/UnoGame
@@ -53,7 +53,7 @@ https://youtu.be/PITvkhLyaCU
 **_User experience Design Link_**
 https://xd.adobe.com/view/aa2ef7ed-6074-43a7-aa6c-890f69f41fa0-ff7d/
 
-# Shopping app with payment using BrainTree SDK and NodeJs as server
+# 5. Shopping app with payment using BrainTree SDK and NodeJs as server
 
 **_Source code_**
 https://github.com/rojatkaraditi/ShoppingApp
@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=WaqJ8xebYD8
 **_Android Application Demo_**
 https://www.youtube.com/watch?v=vR1zU5BBIBA
 
-# Students Evaluation with Admin Portal
+# 6. Students Evaluation with Admin Portal
 
 **_Source code_**
 https://github.com/rojatkaraditi/PosterExamination
@@ -72,7 +72,7 @@ https://github.com/rojatkaraditi/PosterExamination
 **_Application Demo_**
 https://youtu.be/uYc2UiEhRP0
 
-# SMS HealthCare messages using Twilio Api
+# 7. SMS HealthCare messages using Twilio Api
 
 **_Source code_**
 https://github.com/rojatkaraditi/SMSHealthCare
@@ -80,7 +80,7 @@ https://github.com/rojatkaraditi/SMSHealthCare
 **_Application Demo_**
 https://youtu.be/mdc0uiXsEJk
 
-# BLEIot Communication - Controlling a Smart bulb
+# 8. BLEIot Communication - Controlling a Smart bulb
 
 **_Source code_**
 https://github.com/monesa-git/BleIotCommunication
@@ -88,7 +88,7 @@ https://github.com/monesa-git/BleIotCommunication
 **_Application Demo_**
 https://youtu.be/ExmgSLAns3Q
 
-# Auction App using Firebase transaction
+# 9. Auction App using Firebase transaction
 
 **_Source code_**
 https://github.com/progressivePRV/Auction_Project
@@ -96,7 +96,7 @@ https://github.com/progressivePRV/Auction_Project
 **_Application Demo_**
 https://www.youtube.com/watch?v=ctGKOUqTT_k&feature=youtu.be
 
-# Bluetooth Beacons
+# 10. Bluetooth Beacons
 
 **_Source code_**
 https://github.com/rojatkaraditi/ShoppingWithBeacons
